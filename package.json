@@ -1,0 +1,20 @@
+{
+  "name": "day25",
+  "version": "1.0.0",
+  "description": "1: question ko store krana\r 2: option ko store krana\r 3: write answer ko bhi store krana h",
+  "homepage": "https://github.com/AmitChhoker/RandomQuestionGenerator#readme",
+  "bugs": {
+    "url": "https://github.com/AmitChhoker/RandomQuestionGenerator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitChhoker/RandomQuestionGenerator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

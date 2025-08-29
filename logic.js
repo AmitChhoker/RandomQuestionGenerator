@@ -16,8 +16,6 @@
 //     console.log(result);
 // })
 
-
-
 function checkAnswers() {
     let score = 0;
     let totalQuestions = 5;
